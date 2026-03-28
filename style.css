@@ -9,8 +9,8 @@
 
 
 body {
-    width: 100%;
-min-height: 100vh;
+    width: 99vw;
+    height: 99vh;
     background-color: #FFB3C6;
 }
 
